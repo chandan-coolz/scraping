@@ -1,0 +1,19 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "Website crawler which will featch all the hyperlink present on the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandankumarsingh789@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "json2csv": "^3.7.3",
+    "request": "^2.79.0"
+  }
+}
